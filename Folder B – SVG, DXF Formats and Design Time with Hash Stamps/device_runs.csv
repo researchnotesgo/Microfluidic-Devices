@@ -1,0 +1,14 @@
+session,device,t_s,stl,dxf,svg,stl_md5,,,,Manual,,
+bfe9f385,Spiral,0.726,fdm_outward_fixed300_output\spiral_outward15.stl,fdm_outward_fixed300_output\spiral_outward15.dxf,fdm_outward_fixed300_output\spiral_outward15_model.svg,1e3229ba2d5c648d9eb6b408b9ca4edc,,,,801,,
+bfe9f385,T-junction,1.488,fdm_outward_fixed300_output\tjunction_outward15.stl,fdm_outward_fixed300_output\tjunction_outward15.dxf,fdm_outward_fixed300_output\tjunction_outward15_model.svg,0d8a44d2fbf55f8a4609d4927b20ea8a,,,,606,,
+bfe9f385,Y-junction,3.712,fdm_outward_fixed300_output\yjunction_outward15.stl,fdm_outward_fixed300_output\yjunction_outward15.dxf,fdm_outward_fixed300_output\yjunction_outward15_model.svg,9d6511e5fd46a2f10ef992548bd2fc52,,,,684,,
+f0ab7c10,Spiral,0.726,fdm_outward_fixed300_output\spiral_outward15.stl,fdm_outward_fixed300_output\spiral_outward15.dxf,fdm_outward_fixed300_output\spiral_outward15_model.svg,1e3229ba2d5c648d9eb6b408b9ca4edc,,,,823,,
+f0ab7c10,T-junction,1.452,fdm_outward_fixed300_output\tjunction_outward15.stl,fdm_outward_fixed300_output\tjunction_outward15.dxf,fdm_outward_fixed300_output\tjunction_outward15_model.svg,0d8a44d2fbf55f8a4609d4927b20ea8a,,,,619,,
+f0ab7c10,Y-junction,3.769,fdm_outward_fixed300_output\yjunction_outward15.stl,fdm_outward_fixed300_output\yjunction_outward15.dxf,fdm_outward_fixed300_output\yjunction_outward15_model.svg,9d6511e5fd46a2f10ef992548bd2fc52,,,,667,,
+d928c906,Spiral,0.738,fdm_outward_fixed300_output\spiral_outward15.stl,fdm_outward_fixed300_output\spiral_outward15.dxf,fdm_outward_fixed300_output\spiral_outward15_model.svg,1e3229ba2d5c648d9eb6b408b9ca4edc,,,,789,,
+d928c906,T-junction,1.594,fdm_outward_fixed300_output\tjunction_outward15.stl,fdm_outward_fixed300_output\tjunction_outward15.dxf,fdm_outward_fixed300_output\tjunction_outward15_model.svg,0d8a44d2fbf55f8a4609d4927b20ea8a,,,,646,,
+d928c906,Y-junction,4.04,fdm_outward_fixed300_output\yjunction_outward15.stl,fdm_outward_fixed300_output\yjunction_outward15.dxf,fdm_outward_fixed300_output\yjunction_outward15_model.svg,9d6511e5fd46a2f10ef992548bd2fc52,,,,677,,
+,,,,,,,,,,,,I
+Mean,0.73,,,,,,,,,804.33,,1101.8
+Mean,1.51,,,,,,,,,623.7,,413
+mean,3.81,,,,,,,,,676,,177.43
